@@ -1,7 +1,10 @@
 streamlit
 pandas
 seaborn
-matplotlib
+matplotlib.pyplot
 openpyxl
 xlsxwriter
 transformers
+numpy
+os
+io
