@@ -28,7 +28,7 @@ with col1:
 
 with col2:
 
-    logo_path = r"C:\Users\dipan\OneDrive\Documents\DVQ\Infinite_Computer_Solutions_Logo.jpg"
+    logo_path = "https://github.com/Dipanjal1988/ICS_DQV/blob/main/Infinite_Computer_Solutions_Logo.jpg"
 
     st.image(logo_path, width=300)
 
