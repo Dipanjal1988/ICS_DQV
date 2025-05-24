@@ -16,7 +16,7 @@ from transformers import pipeline
 
 st.set_page_config(page_title="ICS - Data Profiling Tool", layout="wide")
 
-logo_url = r"C:\Users\dipan\OneDrive\Documents\DVQ\Infinite_Computer_Solutions_Logo.jpg"
+logo_url = "https://github.com/Dipanjal1988/ICS_DQV/blob/main/Infinite_Computer_Solutions_Logo.jpg"
 
 
 
